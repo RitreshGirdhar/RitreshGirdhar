@@ -1,6 +1,7 @@
-# RitreshGirdhar  
 
-Hi , I am Ritresh - working as a Product Engineer. I started explroing writing skills.
+<h2> Hi, I am Ritresh</h2>
+  
+  Recently, I started exploring my writing skills and published few articles. 
 
 ## My Published writing : 
 - [How to effectively manage the grocery list in the era of digitalisation](https://medium.com/@ritresh.girdhar/how-to-effectively-manage-the-grocery-list-in-the-era-of-digitalisation-75bacc57189c?source=friends_link&sk=bdb525ff53fe7ef49dacecba3a31a8c6)
@@ -14,4 +15,5 @@ Hi , I am Ritresh - working as a Product Engineer. I started explroing writing s
 ## Get in touch
 - Linkedin: https://www.linkedin.com/in/ritresh-girdhar/
 - Medium: https://medium.com/@ritresh.girdhar
-- WriteToMe: ritresh.girdhar@gmail.com
+- WriteToMe: ritresh.girdhar@gmail.com 
+
