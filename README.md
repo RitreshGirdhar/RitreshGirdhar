@@ -13,6 +13,7 @@ I enjoy reading and recently i have started exploring my writing skills by publi
 - [Why to add docker linter in ci pipeline ?](https://medium.com/@ritresh.girdhar/why-to-add-docker-linter-in-ci-pipeline-2acf974c6f8c?source=friends_link&sk=23b75a1647debd1d30dfbcaa5fedb9a4) 
 - [Alexa deploy my service!!!](https://blog.usejournal.com/alexa-deploy-my-service-ca99330ca002?source=friends_link&sk=9eaf74a52dde7a8145a7f2f1e1ebeeb5)
 - [Are you effectively scheduling jobs ?](https://medium.com/@ritresh.girdhar/are-you-effectively-scheduling-jobs-2e668c04f356?source=friends_link&sk=6b3b16ec7161074f671c89d9949dcfe8)
+- [Applying lesson “The Use of Spies — The Art of war” into Application Monitoring](https://ritresh-girdhar.medium.com/applying-lesson-the-use-of-spies-the-art-of-war-into-application-monitoring-bcca345e36b6)
 
 
 ## Get in touch
