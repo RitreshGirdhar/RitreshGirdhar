@@ -18,5 +18,5 @@ I enjoy reading and recently i have started exploring my writing skills by publi
 
 ## Get in touch
 - Linkedin: https://www.linkedin.com/in/ritresh-girdhar/
-- Medium: https://medium.com/@ritresh.girdhar
+- Medium: https://ritresh-girdhar.medium.com
 - WriteToMe: ritresh.girdhar@gmail.com
