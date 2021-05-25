@@ -1,7 +1,7 @@
 
 <h2> 👋, Geeks</h2>
    
-I am a software professional having 9+ years of work expierience. In 2011, I have completed my graduation from Dronacharya College of Engineering with specialization in Computer Science.
+I am a software professional having 10 years of work expierience. In 2011, I have completed my graduation from Dronacharya College of Engineering with specialization in Computer Science.
 <br/>
 
 I enjoy reading. Recently, I have started exploring my writing skills and published few of the articles on Medium & Dzone.
