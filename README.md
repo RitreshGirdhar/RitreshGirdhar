@@ -21,6 +21,9 @@ I enjoy reading. Recently, I have started exploring my writing skills and publis
 
 
 ## Get in touch
-- Linkedin: https://www.linkedin.com/in/ritresh-girdhar/
+- Linkedin: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="ritresh-girdhar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ritresh-girdhar?trk=profile-badge">Ritresh Girdhar</a></div>
 - Medium: https://ritresh-girdhar.medium.com
 - WriteToMe: ritresh.girdhar@gmail.com
+
+
+              
