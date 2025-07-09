@@ -1,29 +1,48 @@
+<h1 align="center">Hi 👋, I'm Ritresh Girdhar</h1>
+<h3 align="center">🚀 Building Scalable Systems | 🧠 Exploring AI | 📚 Sharing Knowledge</h3>
 
-<h2> 👋, Geeks</h2>
-   
-I am a software professional having 10 years of work expierience. In 2011, I have completed my graduation from Dronacharya College of Engineering with specialization in Computer Science.
-<br/>
+---
 
-I enjoy reading. Recently, I have started exploring my writing skills and published few of the articles on Medium & Dzone.
+🎯 **About Me**  
+A results-driven **Tech Lead & Backend Engineer** with over **13+ years of experience** delivering high-performance, cloud-native, and AI-enhanced platforms. I specialize in **Spring Boot**, **Java**, **Python**, **Kafka**, and distributed system architecture. I’ve built software that scales to **millions of users**, optimized for performance, reliability, and observability.
 
-## Published articles : 
-- [How to effectively manage the grocery list in the era of digitalisation](https://medium.com/@ritresh.girdhar/how-to-effectively-manage-the-grocery-list-in-the-era-of-digitalisation-75bacc57189c?source=friends_link&sk=bdb525ff53fe7ef49dacecba3a31a8c6)
-- [Continuous Integration Github Jenkins Telegram Integration](https://medium.com/@ritresh.girdhar/continuous-integration-github-jenkins-telegram-integration-dad64efaccb4?source=friends_link&sk=c093266ac807f83f365dfb85938e7143)
-- [Capture Iot sensors data mqtt protocol rabbitmq as mqtt broker](https://medium.com/@ritresh.girdhar/capture-iot-sensors-data-mqtt-protocol-rabbitmq-as-mqtt-broker-30bd89ac94c3?source=friends_link&sk=505e2e179903767cf94e26fa1cc9aa3d)
-- [Why to add docker linter in ci pipeline ?](https://medium.com/@ritresh.girdhar/why-to-add-docker-linter-in-ci-pipeline-2acf974c6f8c?source=friends_link&sk=23b75a1647debd1d30dfbcaa5fedb9a4) 
-- [Alexa deploy my service!!!](https://blog.usejournal.com/alexa-deploy-my-service-ca99330ca002?source=friends_link&sk=9eaf74a52dde7a8145a7f2f1e1ebeeb5)
-- [Are you effectively scheduling jobs ?](https://medium.com/@ritresh.girdhar/are-you-effectively-scheduling-jobs-2e668c04f356?source=friends_link&sk=6b3b16ec7161074f671c89d9949dcfe8)
-- [Applying lesson “The Use of Spies — The Art of war” into Application Monitoring](https://ritresh-girdhar.medium.com/applying-lesson-the-use-of-spies-the-art-of-war-into-application-monitoring-bcca345e36b6)
-- [Change data capture using debezium](https://ritresh-girdhar.medium.com/change-data-capture-using-debezium-ec48631d643a)
-- [Spring @Async and HttpRequest](https://ritresh-girdhar.medium.com/spring-async-and-httprequest-a32ecc1a2f85)
-- [How to set up Gitlab CI/CD pipeline + Gitlab Runner](https://ritresh-girdhar.medium.com/how-to-set-up-gitlab-ci-cd-pipeline-gitlab-runner-163c1c8d9cf8)
-- [Azure DevOps CI/CD Pipeline — Part 1](https://medium.com/nerd-for-tech/continuous-integration-azure-devops-pipeline-part-1-3e09d6e9d7f0)
+🛠️ From architecting large-scale microservices to mentoring teams, and from hands-on coding to deploying production-grade apps on **AWS, GCP & OpenShift**, I love solving real-world problems with clean, pragmatic solutions.
 
+📚 I'm passionate about sharing knowledge through writing and have authored several technical articles on **Medium** and **DZone**.
 
-## Get in touch
-- Linkedin: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="ritresh-girdhar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ritresh-girdhar?trk=profile-badge">Ritresh Girdhar</a></div>
-- Medium: https://ritresh-girdhar.medium.com
-- WriteToMe: ritresh.girdhar@gmail.com
+---
 
+📝 **Latest Articles**  
+Check out some of my published work:
 
-              
+- 📦 [Change Data Capture using Debezium](https://ritresh-girdhar.medium.com/change-data-capture-using-debezium-ec48631d643a)  
+- 🤖 [Applying “The Use of Spies” from *The Art of War* to Application Monitoring](https://ritresh-girdhar.medium.com/applying-lesson-the-use-of-spies-the-art-of-war-into-application-monitoring-bcca345e36b6)  
+- 🧪 [Why Add a Docker Linter in CI Pipeline?](https://medium.com/@ritresh.girdhar/why-to-add-docker-linter-in-ci-pipeline-2acf974c6f8c)  
+- 💬 [Alexa, Deploy My Service!](https://blog.usejournal.com/alexa-deploy-my-service-ca99330ca002?source=friends_link&sk=9eaf74a52dde7a8145a7f2f1e1ebeeb5)  
+- ⚙️ [Spring @Async and HttpRequest Explained](https://ritresh-girdhar.medium.com/spring-async-and-httprequest-a32ecc1a2f85)  
+- 🛠️ [How to Set up GitLab CI/CD with GitLab Runner](https://ritresh-girdhar.medium.com/how-to-set-up-gitlab-ci-cd-pipeline-gitlab-runner-163c1c8d9cf8)
+
+📚 [See all articles](https://ritresh-girdhar.medium.com/)
+
+---
+
+💼 **Current Role**  
+👨‍💻 **Tech Lead**, Citi Group — *Toronto, ON*  
+- Leading a pod focused on data engineering, ETL pipelines, and Tableau reporting  
+- Microservices development using Spring Boot & Java  
+- CI/CD with Jenkins | Deployment on OpenShift  
+
+🧠 Previously @ **Publicis Sapient, Airtel, T-Systems** — delivering scalable solutions for e-commerce, telecom, and fintech domains
+
+---
+
+🧰 **Tech Stack & Expertise**
+
+```plaintext
+Languages: Java, Kotlin, Python, Elixir  
+Cloud: AWS, GCP, OpenShift  
+Data & Messaging: PostgreSQL, MongoDB, Redis, Kafka, Apache Beam, Spark, BigQuery  
+DevOps: Docker, Kubernetes, Jenkins, Terraform, Helm, GitHub Actions  
+Monitoring: Prometheus, Datadog, New Relic  
+AI/ML: Transformers, BERT, RoBERTa, CNNs, GANs, LangChain 
+```
